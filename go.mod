@@ -13,7 +13,7 @@ require (
 	k8s.io/api v0.26.0
 	k8s.io/apimachinery v0.26.0
 	k8s.io/client-go v0.26.0
-	mvdan.cc/xurls/v2 v2.4.0
+	mvdan.cc/xurls/v2 v2.5.0
 )
 
 require github.com/traefik/traefik/v2 v2.9.6
@@ -62,7 +62,7 @@ require (
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/traefik/paerser v0.1.9 // indirect
 	golang.org/x/crypto v0.3.0 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/net v0.3.1-0.20221206200815-1e63c2f08a10 // indirect
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783 // indirect
 	golang.org/x/sys v0.3.0 // indirect
